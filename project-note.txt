@@ -1,0 +1,2 @@
+font awesome icon class
+home: <i class="fa-solid fa-door-open"></i>
